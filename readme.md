@@ -1,1 +1,1 @@
-Simple Chat Application using fastapi and websockets. 
+Simple Chat Application using fastapi and websockets, written in pyhton.
